@@ -7,7 +7,7 @@
 | Skill 名称 | 描述 | 状态 |
 | :--- | :--- | :--- |
 | **[wechat-illustrator](./wechat-illustrator/)** | 🎨 微信公众号文章配图神器。自动提取痛点、生成手绘风格插图与封面。 | ✅ 已发布 |
-| **[novel-analyzer](./novel-analyzer/)** | 📚 热门小说分析师。分析网文趋势并提供创作灵感。 | 🚧 开发中 |
+| **[novel-analyzer](./novel-analyzer/)** | 📚 热门小说分析师。分析网文趋势并提供创作灵感。 | ✅ 已发布 |
 
 ## 🚀 如何使用
 

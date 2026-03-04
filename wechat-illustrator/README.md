@@ -18,7 +18,7 @@
 ### 1. 安装 Skill
 
 ```bash
-npx skills add <your-username>/wechat-illustrator
+npx skills add Christian-wyc/skills/wechat-illustrator
 ```
 
 ### 2. 配置 API Key
@@ -42,7 +42,8 @@ export DASHSCOPE_API_KEY="sk-xxxxxxxxxxxxxxxx"
 
 1.  克隆仓库：
     ```bash
-    git clone https://github.com/<your-username>/wechat-illustrator.git
+    git clone https://github.com/Christian-wyc/skills.git
+    cd skills/wechat-illustrator
     ```
 2.  安装依赖：
     ```bash

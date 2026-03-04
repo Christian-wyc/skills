@@ -14,11 +14,12 @@
 你可以通过 `npx skills add` 命令直接安装这些 Skill：
 
 ```bash
-# 安装 wechat-illustrator
-npx skills add <your-username>/skills/wechat-illustrator
-```
+# 安装 wechat-illustrator (公众号配图)
+npx skills add Christian-wyc/skills/wechat-illustrator
 
-*注意：具体的安装路径可能会根据你的仓库结构略有不同，请参考每个 Skill 目录下的详细 README。*
+# 安装 novel-analyzer (小说分析)
+npx skills add Christian-wyc/skills/novel-analyzer
+```
 
 ## 🤝 贡献与反馈
 

@@ -19,7 +19,7 @@
 ### 1. 安装 Skill
 
 ```bash
-npx skills add <your-username>/novel-analyzer
+npx skills add Christian-wyc/skills/novel-analyzer
 ```
 
 ### 2. 使用方法

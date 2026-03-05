@@ -1,6 +1,15 @@
 ---
 name: "wechat-illustrator"
 description: "分析公众号文章并生成手绘/漫画风格的封面与插图。当用户提供文章内容或主题并请求配图建议或生成图片时调用。"
+version: "1.0.0"
+tags:
+  - image-generation
+  - wechat
+  - illustration
+  - creative
+  - social-media
+author: "Christian-wyc"
+license: "MIT"
 ---
 
 # 微信公众号插画师 (WeChat Article Illustrator)

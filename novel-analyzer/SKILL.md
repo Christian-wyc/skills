@@ -1,6 +1,15 @@
 ---
 name: "novel-analyzer"
 description: "分析热门小说和主题。当用户询问小说推荐或主题分析时调用。"
+version: "1.0.0"
+tags:
+  - writing
+  - novel
+  - analysis
+  - creative-writing
+  - trends
+author: "Christian-wyc"
+license: "MIT"
 ---
 
 # 小说分析师 (Novel Analyzer)
